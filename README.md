@@ -42,23 +42,25 @@ It contains columns corresponding to the following items:
 
 *This question is important because it helps us understand…*
 
-At what point is the energy grid used most?
-At what point is the energy grid used the least?
-How do renewables different from traditional sources in month by month consumption. 
-Help understand which months will experience the highest and lowest energy costs.
-These results would provides actionable insights for grid designers that could improve reliability and support planning/investment. 
+- At what point is the energy grid used most?
+- At what point is the energy grid used the least?
+- How do renewables different from traditional sources in month by month consumption. 
+- Help understand which months will experience the highest and lowest energy costs.
+- These results would provides actionable insights for grid designers that could improve reliability and support planning/investment. 
 
 **INSERT GRAPHS HERE**
 
 Summary(High/Low):
-Fossil Fuels: January/September
-Nuclear Power: January/April
-Renewables: May/September
+- Fossil Fuels: January/September
+- Nuclear Power: January/April
+- Renewables: May/September
 
-Trends: January seems to be the highest consumption rate. While September has the lowest. 
+Trends: January seems to be the highest consumption rate, while September has the lowest. 
 
 This means that Grid Operators need to build their gird to withstand the high demands of January.
+
 High energy usage industries like AI should use the September lows to reduce costs.
+
 Renewables usage peaks in the summer months which shows the importance of solar panel to that industry. 
 
 ## Question 2
@@ -66,11 +68,11 @@ Renewables usage peaks in the summer months which shows the importance of solar 
 
 *This questions is important because it helps us understand…*
 
-How the energy mix will look in the next decade
-Identify which energy types are expected to increase/decrease
-Reveal how dependent we are on non-renewable energy sources 
-Highlight future investment needs in renewable energy infrastructure or energy storage
-These results would provide actionable insights that guide policy, sustainability goals, and long-term energy planning
+- How the energy mix will look in the next decade
+- Identify which energy types are expected to increase/decrease
+- Reveal how dependent we are on non-renewable energy sources 
+- Highlight future investment needs in renewable energy infrastructure or energy storage
+- These results would provide actionable insights that guide policy, sustainability goals, and long-term energy planning
 
 **INSERT GRAPHS HERE**
 
