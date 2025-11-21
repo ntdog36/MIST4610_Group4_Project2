@@ -98,9 +98,15 @@ Renewables usage peaks in the summer months which shows the importance of solar 
 - Highlight future investment needs in renewable energy infrastructure or energy storage
 - These results would provide actionable insights that guide policy, sustainability goals, and long-term energy planning
 
+Data Manipulation:
+Created Fields - Percentage Fossil Fuel Consumption, Percentage Nuclear Consumption, Percentage Renewable Consumtpion
+Purpose - 
+
 <img width="848" height="547" alt="Screenshot 2025-11-21 at 1 45 01 PM" src="https://github.com/user-attachments/assets/89d70faa-00e2-4198-a33c-460cbb51987b" />
 
 **INSERT SUMMARY/TRENDS HERE**
+
+
 
 
 
