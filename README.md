@@ -14,22 +14,26 @@
 Monthly and Annual Energy Consumption by Sector
 
 It contains columns corresponding to the following items:
-- Month/Year (1973-2024) 
-- Total Fossil Fuels Production
-- Nuclear Electric Power Production 
-- Total Renewable Energy Production
-- Total Primary Energy Production
-- Primary Energy Imports
-- Primary Energy Exports
-- Primary Energy Net Imports
-- Primary Energy Stock Change and Other
-- Total Fossil Fuels Consumption
-- Nuclear Electric Power Consumption
-- Total Renewable Energy Consumption
-- Total Primary Energy Consumption
+- Month/Year (1973-2024) (Date)
+- Total Fossil Fuels Production (Number)
+- Nuclear Electric Power Production (Number)
+- Total Renewable Energy Production (Number)
+- Total Primary Energy Production (Number)
+- Primary Energy Imports (Number)
+- Primary Energy Exports (Number)
+- Primary Energy Net Imports (Number)
+- Primary Energy Stock Change and Other (Number)
+- Total Fossil Fuels Consumption (Number)
+- Nuclear Electric Power Consumption (Number)
+- Total Renewable Energy Consumption (Number)
+- Total Primary Energy Consumption (Number)
 
 
 - Total Rows: 631
+- Total Columns: 13
+- Units: Quadrillion Btu = 1,000,000,000,000,000 (10¹⁵) Btu
+
+We found our data set on data.gov. The data set is provided by the Department of Energy and was last updated July 6 2021.
 
 ## Importance of Our Selected Data Set
 - Climate change
