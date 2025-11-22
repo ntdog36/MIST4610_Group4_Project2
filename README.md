@@ -8,7 +8,7 @@
 - George Zupko: https://github.com/gvzupko/MIST4610_Group4_Project2
 - Kelly Stephenson: https://github.com/kms25583-tech/MIST4610_Group4_Project2
 - Kevin Wang:  https://github.com/kkw01911/MIST4610_Group4_Project2
-- Alexis Melchiorre: 
+- Alexis Melchiorre: https://github.com/amm-melch/MIST4610_Group4_Project2
 
 ## Our Data Set
 Monthly and Annual Energy Consumption by Sector
